@@ -8,5 +8,6 @@ public class Test{
         int i = 0;
         int y = 1;
         System.out.println(i+y);
+        System.out.println("RAWR");
     }
 }
